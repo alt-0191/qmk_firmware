@@ -27,7 +27,7 @@
         "pid": "0x0002",
         "vid": "0x5048"
     },
-    "community_layouts": ["60_ansi", "60_ansi_tsangan_split_bs_rshift", "60_iso"]
+    "community_layouts": ["60_ansi", "60_ansi_tsangan_split_bs_rshift", "60_iso"],
     "layouts": {
         "LAYOUT_all": {
             "layout": [
